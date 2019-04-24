@@ -10,4 +10,7 @@ class  test{
     public void test2(){
         System.out.println("hello test2");
     }
+    public void test44444(){
+        System.out.println("hello test44444");
+    }
 }
