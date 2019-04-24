@@ -14,4 +14,9 @@ class  test{
     public void test3(){
         System.out.println("hello test3");
     }
+
+
+    public void test 55555()P{
+        System.out.println("heeeee");
+    }
 }
