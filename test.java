@@ -5,4 +5,7 @@ class  test{
     pubic void test(){
         System.out.println("hello android");
     }
+    public void test2(){
+        System.out.println("hello test2");
+    }
 }
